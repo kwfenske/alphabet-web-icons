@@ -1,0 +1,24 @@
+
+Alphabet Web Icons - IconTwo-0020-1.ico
+by: Keith Fenske, https://kwfenske.github.io/
+Friday, 30 June 2023
+
+All 12 icons in the "IconTwo-0020-1.ico" file are completely empty: the color
+information is set to zero (black) and all pixels are transparent. Windows
+should show the current background color or wallpaper image. However, sometimes
+it puts a black square, such as on the Windows 7 desktop when resizing down
+from 256x256. Web browsers usually show the absence of an icon.
+
+The "IconTwo-0020-2.ico" file has one off-white pixel in the lower-left corner,
+which seems to be enough to avoid a black square. Any color would probably do.
+
+For general information, see the "IconTwo-ReadMe.txt" and "IconWeb-ReadMe.txt"
+files.
+
+Copyright (c) 2023 by Keith Fenske. Released under the terms and conditions of
+the Apache License (version 2.0 or later) and/or the GNU General Public License
+(GPL, version 2 or later).
+
+2023-07-02
+
+----------
