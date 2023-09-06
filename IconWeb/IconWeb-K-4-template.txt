@@ -1,0 +1,24 @@
+
+Alphabet Web Icons - IconWeb-K-4-template.ico
+by: Keith Fenske, https://kwfenske.github.io/
+Monday, 10 April 2023
+
+This icon file is a template and includes a base 16x16 image that must be
+deleted before release to the public, or else some applications may use the
+base image instead of a finished 16x16 icon.
+
+To define similar icons for a new character, first create a 16x16 base image
+(or 32x32). Scale the base image without smoothing for each desired icon size,
+add the outline, and copy and paste 90-degree corners from this template, with
+some rotation. Multiples of 16 (or 32) will be easy; other sizes will require
+correction by hand. There are more sizes here than necessary.
+
+For general information, please see the "IconWeb-ReadMe.txt" file.
+
+Copyright (c) 2023 by Keith Fenske. Released under the terms and conditions of
+the Apache License (version 2.0 or later) and/or the GNU General Public License
+(GPL, version 2 or later).
+
+2023-04-20
+
+----------
